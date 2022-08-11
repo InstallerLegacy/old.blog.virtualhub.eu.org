@@ -1,4 +1,6 @@
-![VirtualHub Logo](/assets/2022/August/11/VirtualHub.webp)
+<p align="center" width="100%">
+    <img width="25%" src="/assets/2022/August/11/VirtualHub.webp"> 
+</p>
 
 Welcome to the VirtualHub Blog. This blog has been created to record my continued struggle for finding a perfect CMS/SSG for the VirtualHub website. Until now, I have used Wordpress, CloudCanon and Publii. None of them proved to be the tool I have dreamt of.
 
