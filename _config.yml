@@ -5,7 +5,7 @@ description:         'A blog that describes the process and various problems fac
 url:                 https://blog.virtualhub.eu.org
 baseurl:             ''
 paginate:            5
-permalink:           pretty
+permalink:           /posts/:title
 
 # About/contact
 author:
