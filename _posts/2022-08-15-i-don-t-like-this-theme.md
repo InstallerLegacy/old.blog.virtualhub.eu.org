@@ -10,7 +10,7 @@ img {
 </style>
 
 <p align="center" width="100%">
-    <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_India.svg/1024px-Flag_India.svg.png"> 
+    <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Flag_India.svg"> 
 </p>
 
 As promised in the prvious post, today I am going to tell you why I did not chose your favourite theme for [VirtualHub](https://virtualhub.eu.org).
