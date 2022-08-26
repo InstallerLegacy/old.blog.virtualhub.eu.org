@@ -3,11 +3,6 @@ layout: post
 title: A bit about your favourite theme...
 date: 2022-08-15 19:45 +0530
 ---
-<style>
-img {
-  border-radius: 15%;
-}
-</style>
 
 <p align="center" width="100%">
     <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Flag_India.svg"> 

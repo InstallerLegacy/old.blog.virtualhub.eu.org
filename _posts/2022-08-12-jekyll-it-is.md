@@ -3,6 +3,7 @@ layout: post
 title: Jekyll it is!
 date: 2022-08-12 17:55 +0530
 ---
+
 So, after testing [Wordpress](https://wordpress.org/){:target="_blank"}, [CloudCannon](https://cloudcannon.com/){:target="_blank"} and [Publli](https://getpublii.com/){:target="_blank"}, I have started using [Jekyll](https://jekyllrb.com/){:target="_blank"}. As I have told you in the previous post, this blog is created using it.
 
 ## A bit about this Blog
